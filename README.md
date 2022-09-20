@@ -14,8 +14,8 @@ const aboutMe = {
       },
       dataBases: ["MongoDB", "MySQL"],
       type: {
-         webDevelop: 'true',
-         mobileDevelop: 'false'
+         webDevelop: true,
+         mobileDevelop: false
       }
    },
    currentOccupation: ["Student, open for job opportunities"]
