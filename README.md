@@ -13,7 +13,10 @@ const aboutMe = {
          js: ["Node", "Express"]
       },
       databases: ["MongoDB", "mySQL"],
-      mobile: ["IOS"]
+      type: {
+         web-develop: 'true',
+         mobile-develop: 'false'
+      }
    },
    currentOccupation: ["Student, open for job opportunities"]
 };
