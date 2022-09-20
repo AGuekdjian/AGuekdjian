@@ -3,16 +3,16 @@
 ```javascript
 const aboutMe = {
    Languages: "Spanish" | "English",
-   code: [Javascript, HTML, CSS],
+   code: [JavaScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React"],
          css: ["Bootstrap", "SASS"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["MongoDB", "mySQL"],
+      dataBases: ["MongoDB", "MySQL"],
       type: {
          webDevelop: 'true',
          mobileDevelop: 'false'
