@@ -21,6 +21,12 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="#AGuekdjian">
+        <img src="./img/nodejs.png" width="111" height="48" alt="node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
@@ -44,15 +50,13 @@
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-<!--     <td align="center" width="96">
+<!--<td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
@@ -70,6 +74,9 @@
       </a>
       <br>MySQL
     </td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
 
