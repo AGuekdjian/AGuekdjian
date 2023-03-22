@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="96">
       <a href="#AGuekdjian">
-        <img src="./img/nodejs.png" width="111" height="48" alt="node.js" />
+        <img src="./img/nodejs.svg" width="111" height="48" alt="node.js" />
       </a>
       <br>Node.js
     </td>
