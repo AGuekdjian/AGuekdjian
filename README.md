@@ -1,4 +1,4 @@
-[![Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner.png](https://i.postimg.cc/3NkBp9bF/Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner.png)](https://postimg.cc/64NnxVK8)
+[![Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png](https://i.postimg.cc/sxXprwRV/Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png)](https://postimg.cc/34syjjR6)
 
 
 
