@@ -14,7 +14,7 @@
 - :technologist: I like to program solutions for various `Problems`.
 - :student: I’m currently learning `DevOps Engineer` & `Backend Specialist`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAFgv5doT3Y/ZfXZVd_aXzduwo2rR-e_tA/view?utm_content=DAFgv5doT3Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAFgv5doT3Y/ZfXZVd_aXzduwo2rR-e_tA/view?utm_content=DAFgv5doT3Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). I'm open to feedback and suggestions!
 - :boom: You can visit [MY WEBSITE](https://anthonyguekdjian.vercel.app/).
 
 <br><br>
@@ -31,6 +31,11 @@
   </a>
 </p>
 
+<div align=center>
+  <a href="https://github.com/AGuekdjian/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
