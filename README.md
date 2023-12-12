@@ -8,8 +8,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-<br><br>
-
 - :school: I am a `Software Developer` at [UTEC](https://utec.edu.uy/en/) (UTEC is the Technological University of Uruguay) & [Digital House](https://www.digitalhouse.com/).
 - :technologist: I like to program solutions for various `Problems`.
 - :student: I’m currently learning `DevOps Engineer` & `Backend Specialist`.
