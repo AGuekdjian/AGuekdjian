@@ -4,7 +4,7 @@
 
 [![Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png](https://i.postimg.cc/sxXprwRV/Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png)](https://postimg.cc/34syjjR6)
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
@@ -21,7 +21,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h3></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AGuekdjian">
@@ -40,7 +40,7 @@
 </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/aguekdjian19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aguekdjian19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthony-guekdjian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-guekdjian" height="30" width="40" /></a>
