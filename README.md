@@ -4,7 +4,7 @@
 
 [![Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png](https://i.postimg.cc/sxXprwRV/Dark-Blue-Orange-Simple-Businessman-Linked-In-Banner-1.png)](https://postimg.cc/34syjjR6)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
@@ -21,7 +21,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h3 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
