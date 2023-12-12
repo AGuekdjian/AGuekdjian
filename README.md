@@ -17,7 +17,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAFgv5doT3Y/ZfXZVd_aXzduwo2rR-e_tA/view?utm_content=DAFgv5doT3Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 - :boom: You can visit [MY WEBSITE](https://anthonyguekdjian.vercel.app/).
 
-<br>
+<br><br>
 
 <div id="user-content-toc">
   <ul align="center">
